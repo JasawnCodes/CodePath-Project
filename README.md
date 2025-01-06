@@ -2,7 +2,7 @@
 
 Submitted by: **Jason Jiang**
 
-**Name of your app** is an app that... [TODO] 
+**CodePath Projectp** is an app that showcases my name, school and future profession in three lines, and a button to change the color of the background.  
 
 Time spent: **5** hours spent in total
 
