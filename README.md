@@ -22,8 +22,12 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## App Brainstorming (Step 4)
 
 ## Notes
+A list of my favorite applications include Instagram, YouTube and Discord. Features that make them my favorite and stand out from the rest is the ability to delete old messages, and change the background color or even theme. 
+
+An app idea that I would like to build would be one that centers around the usages of both Discord and Instagram. It would be an app focused towards the creations of communities and prioritizes on that. Within each communities that can be private or public, users can put photos, videos and other sort of medias on it. People can react in real-time or leave messages, stickers, and reactions to it. Moreover, perhaps there could be sections where people can join in on voice chats or livestreams. Features would include community creations, theme-changes, ghost-messages like Snapchat, reactions and comments, profile creations with pictures in bios, and voice chats. 
 
 Describe any challenges encountered while building the app.
+Challenges that were encountered included being in an unfamiliar environment and not knowing where some of the buttons where. 
 
 ## License
 
